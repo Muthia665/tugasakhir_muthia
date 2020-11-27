@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">tugasakhir_muthia</string>
+    <string name="text_title">Text Tittle</string>
+    <string name="text_description">Text Description</string>
+    <string name="skip">Skip</string>
+    <string name="next">Next</string>
+    <string name="splash_screen">Splash Screen</string>
+</resources>
